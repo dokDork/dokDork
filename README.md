@@ -9,8 +9,9 @@ I think that loving security means loving knowledge.
 
 # 📖 So what can we do?
 To make a system secure you must get as much information as possible about that system, you must analyze it from many points of view trying to understand how to change its predefined behavior.
-Hacking is a methodology that allows you to analyse system much deeply then most people can. 
-Hacking requires you to increase your knowledge every day.
+Hacking is a methodology that allows you to analyse system much deeply then most people can.  
+Hacking requires you to increase your knowledge every day.  
+So start now; read, experiment, verify the results, correct your beliefs, learn new things and start again, broadening the field of your knowledge each time.
 
 <!---
 dokDork/dokDork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
