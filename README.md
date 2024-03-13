@@ -2,7 +2,7 @@
 Hi, I’m **@dokDork**.
 I think that loving security means loving knowledge.
 
-# 🏴‍☠️ Uncertainty principles of cyber security
+# 🏴‍☠️ Cyber Security Uncertainty principles
 + **First principle**: there is no upper limit to the amount of security that can be applied to a system.
 + **Second principle**: no matter how much security has been inserted into a system, the system will still be hackable.
 + **Third principle**: Time erodes the security of a system.
