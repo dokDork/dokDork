@@ -8,8 +8,8 @@ I think that loving security means loving knowledge.
 + **Third principle**: Time erodes the security of a system.
 
 # 📖 So what can we do?
-To make a system secure we must know as much information as possible about system, analyze it from many points of view trying to understand how to change its predefined behavior.
-Hacking is a methodology that allows you to analyse system much deeper then most people can. 
+To make a system secure you must get as much information as possible about that system, you must analyze it from many points of view trying to understand how to change its predefined behavior.
+Hacking is a methodology that allows you to analyse system much deeply then most people can. 
 Hacking requires you to increase your knowledge every day.
 
 <!---
