@@ -3,7 +3,7 @@ Hi, I’m **@dokDork**.
 I think that loving security means loving knowledge.
 
 # 🏴‍☠️ Cyber Security Uncertainty principles
-cyber security offers few certainties. Below I have tried to summarize some uncertainty principles that I have experienced in real life:  
+Cyber security offers few certainties. Below I have tried to summarize some uncertainty principles that I have experienced in real life:  
 + **First principle**: there is no upper limit to the amount of security that can be applied to a system.
 + **Second principle**: no matter how much security has been inserted into a system, the system will still be hackable.
 + **Third principle**: Time erodes the security of a system.
