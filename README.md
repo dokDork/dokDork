@@ -1,6 +1,7 @@
 # 👨‍💻 About me
 Hi, I’m **@dokDork**.
-I think that loving security means loving knowledge.
+I think that loving security means loving knowledge.  
+cyber security offers few certainties. Below I have tried to summarize some uncertainty principles that I have experienced in real life:
 
 # 🏴‍☠️ Cyber Security Uncertainty principles
 + **First principle**: there is no upper limit to the amount of security that can be applied to a system.
