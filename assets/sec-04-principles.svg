@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-labelledby="t">
+<title id="t">04 / principles. Cyber security uncertainty principles</title>
+<defs><filter id="b" x="-50%" y="-500%" width="200%" height="1100%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect x=".5" y=".5" width="1199" height="95" rx="12" fill="#0d1511" stroke="#20352a"/>
+<rect x="28" y="0" width="84" height="2" fill="#75f0a0"/>
+<rect x="28" y="0" width="84" height="2" fill="#75f0a0" filter="url(#b)"/>
+<text x="28" y="46" style="font-family:SFMono-Regular, Consolas, 'Liberation Mono', monospace;font-size:34px;font-weight:700;fill:#75f0a0;letter-spacing:.5px">04 / principles</text>
+<text x="29" y="76" style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;font-size:19px;fill:#c2d0c5">Cyber security uncertainty principles</text>
+</svg>
