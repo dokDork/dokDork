@@ -10,9 +10,7 @@
 
 > I think that loving security means loving knowledge.
 
-`01 / profile`
-
-## Strategy and practice, together
+<img src="assets/sec-01-profile.svg" alt="01 / profile. Strategy and practice, together" width="100%">
 
 I am Head of Application Security at Cedacri. I work to integrate security into the software development lifecycle and the design of complex systems. My background combines hands-on security assessments with architecture, security guidelines and support for development teams.
 
@@ -20,9 +18,7 @@ I have worked in banking and automotive environments on topics including SSDLC, 
 
 `20+ years of experience` `Banking & Automotive` `SSDLC and AppSec` `Technical author`
 
-`02 / books and articles`
-
-## Selected publications
+<img src="assets/sec-02-books.svg" alt="02 / books and articles. Selected publications" width="100%">
 
 **[Cyber Security: Social Engineering](https://www.amazon.it/dp/B0HM6V8T8J)**  
 `2026 · Volume 3 · 214 pages`  
@@ -38,13 +34,11 @@ Real, ready-to-use Kali Linux commands, with theory kept to a minimum.
 
 Articles: [Penetration Test, Black Box Type](https://www.slideshare.net/slideshow/penetration-test-black-box-type/52804207) (2015) · [Integrated Malware Analysis](https://pentestmag.com/download/secure-coding-pentest-regular-022014-teaser/) (2014) · [Assembly and Reverse Engineering](https://www.slideshare.net/slideshow/assembly-and-reverse-engineering/28972347) (2013)
 
-`03 / open source`
-
-## Tools
+<img src="assets/sec-03-tools.svg" alt="03 / open source. Tools" width="100%">
 
 Open-source tools and lab material, grouped by topic. Everything here is meant for lab environments and authorized security testing: use it only on systems you own or are explicitly allowed to test.
 
-### Web and recon
+#### Web and recon
 
 | Repository | What it does |
 | --- | --- |
@@ -57,7 +51,7 @@ Open-source tools and lab material, grouped by topic. Everything here is meant f
 | [CommandInjectionShield](https://github.com/dokDork/CommandInjectionShield) | Prepares precompiled tmux sessions to test command injection on the parameters of a web page (GET or POST). |
 | [jwks-converter](https://github.com/dokDork/jwks-converter) | Converts the RSA public key parameters (n and e) of a JWKS JSON file into a PEM public key. |
 
-### Network and wireless
+#### Network and wireless
 
 | Repository | What it does |
 | --- | --- |
@@ -65,7 +59,7 @@ Open-source tools and lab material, grouped by topic. Everything here is meant f
 | [AP-gateway](https://github.com/dokDork/AP-gateway) | Creates a proxy access point on a Linux machine. The traffic that passes through it can be analyzed or diverted to other proxies, such as Burp Suite, mitmproxy or certmitm. |
 | [AP-captive](https://github.com/dokDork/AP-captive) | Creates a passwordless access point. Connecting users are still prompted for a password, which the access point saves. For lab demonstrations and authorized wireless tests. |
 
-### Shells, backdoors and exploitation labs
+#### Shells, backdoors and exploitation labs
 
 | Repository | What it does |
 | --- | --- |
@@ -75,18 +69,15 @@ Open-source tools and lab material, grouped by topic. Everything here is meant f
 | [reverseEngineering](https://github.com/dokDork/reverseEngineering) | A training environment: vulnerable target applications and the Python scripts used to exploit them and obtain a reverse shell. |
 | [Heapy](https://github.com/dokDork/Heapy) | Gets credentials from the heap memory of running processes, for lab work and authorized tests. |
 
-### Utilities
+#### Utilities
 
 | Repository | What it does |
 | --- | --- |
 | [tools](https://github.com/dokDork/tools) | A small toolbox of useful bash scripts. |
 | [factLens](https://github.com/dokDork/factLens) | Evaluates the truthfulness of statements. |
+| **[All repositories](https://github.com/dokDork?tab=repositories)** | The full list of repositories on GitHub. |
 
-[All repositories](https://github.com/dokDork?tab=repositories)
-
-`04 / principles`
-
-## Cyber security uncertainty principles
+<img src="assets/sec-04-principles.svg" alt="04 / principles. Cyber security uncertainty principles" width="100%">
 
 Cyber security offers few certainties. Below I have tried to summarize some uncertainty principles that I have experienced in real life:
 
@@ -100,8 +91,6 @@ To make a system secure you must get as much information as possible about that 
 Hacking requires you to increase your knowledge every day.  
 So start now: read, experiment, verify the results, correct your beliefs, learn new things and start again, broadening the field of your knowledge each time.
 
-`05 / contact`
-
-## Get in touch
+<img src="assets/sec-05-contact.svg" alt="05 / contact. Get in touch" width="100%">
 
 For professional collaborations, consulting, speaking engagements or further information, you can reach me on [LinkedIn](https://www.linkedin.com/in/luigi-capuzzello/) or through [my website](https://capuzzello.altervista.org/).
