@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Luigi Capuzzello, Head of Application Security. Application Security, Security Architecture, Ethical Hacking" width="100%">
-</p>
-
-<p align="center">
   <a href="https://capuzzello.altervista.org/"><img src="assets/btn-website.svg" alt="Website" height="40"></a>&nbsp;
   <a href="https://www.linkedin.com/in/luigi-capuzzello/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>&nbsp;
   <a href="https://profile.hackthebox.com/profile/01a18738-6e2a-71f2-b1e1-9bb18cb3cdd3"><img src="assets/btn-hackthebox.svg" alt="HackTheBox" height="40"></a>
