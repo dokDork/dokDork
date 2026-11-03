@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 232" width="1200" height="232" role="img" aria-labelledby="t d">
+<title id="t">Luigi Capuzzello</title>
+<desc id="d">Head of Application Security. Application Security, Security Architecture, Ethical Hacking</desc>
+<style>
+text{font-family:SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion: reduce){.cur{animation:none}}
+</style>
+<text x="4" y="36" font-size="21" fill="#57606a"><tspan fill="#1a7f37">$</tspan> whoami</text>
+<text x="2" y="112" font-size="66" font-weight="700" fill="#1a7f37">Luigi Capuzzello</text>
+<text x="4" y="158" font-size="29" fill="#1f2328">Head of Application Security</text>
+<text x="4" y="198" font-size="22" fill="#1a7f37">Application Security · Security Architecture · Ethical Hacking<tspan class="cur" dx="6">█</tspan></text>
+<rect x="0" y="222" width="1200" height="1" fill="#d0d7de"/>
+</svg>
