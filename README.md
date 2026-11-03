@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Luigi Capuzzello, Head of Application Security. Application Security, Security Architecture, Ethical Hacking" width="100%">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/banner.svg"><img src="assets/banner.svg" alt="Luigi Capuzzello, Head of Application Security. Application Security, Security Architecture, Ethical Hacking" width="100%"></picture>
 </p>
 
 <p align="center">
-  <a href="https://capuzzello.altervista.org/"><img src="assets/btn-website.svg" alt="Website" height="40"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/luigi-capuzzello/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>&nbsp;
-  <a href="https://profile.hackthebox.com/profile/01a18738-6e2a-71f2-b1e1-9bb18cb3cdd3"><img src="assets/btn-hackthebox.svg" alt="HackTheBox" height="40"></a>
+  <a href="https://capuzzello.altervista.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-website.svg"><img src="assets/btn-website.svg" alt="Website" height="38"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/luigi-capuzzello/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-linkedin.svg"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38"></picture></a>&nbsp;
+  <a href="https://profile.hackthebox.com/profile/01a18738-6e2a-71f2-b1e1-9bb18cb3cdd3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-hackthebox.svg"><img src="assets/btn-hackthebox.svg" alt="HackTheBox" height="38"></picture></a>
 </p>
 
 > I think that loving security means loving knowledge.
 
-<img src="assets/sec-01-profile.svg" alt="01 / profile. Strategy and practice, together" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-01-profile.svg"><img src="assets/sec-01-profile.svg" alt="01 / profile. Strategy and practice, together" width="100%"></picture>
 
 I am Head of Application Security at Cedacri. I work to integrate security into the software development lifecycle and the design of complex systems. My background combines hands-on security assessments with architecture, security guidelines and support for development teams.
 
@@ -18,7 +18,7 @@ I have worked in banking and automotive environments on topics including SSDLC, 
 
 `20+ years of experience` `Banking & Automotive` `SSDLC and AppSec` `Technical author`
 
-<img src="assets/sec-02-books.svg" alt="02 / books and articles. Selected publications" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-02-books.svg"><img src="assets/sec-02-books.svg" alt="02 / books and articles. Selected publications" width="100%"></picture>
 
 **[Cyber Security: Social Engineering](https://www.amazon.it/dp/B0HM6V8T8J)**  
 `2026 · Volume 3 · 214 pages`  
@@ -34,7 +34,7 @@ Real, ready-to-use Kali Linux commands, with theory kept to a minimum.
 
 Articles: [Penetration Test, Black Box Type](https://www.slideshare.net/slideshow/penetration-test-black-box-type/52804207) (2015) · [Integrated Malware Analysis](https://pentestmag.com/download/secure-coding-pentest-regular-022014-teaser/) (2014) · [Assembly and Reverse Engineering](https://www.slideshare.net/slideshow/assembly-and-reverse-engineering/28972347) (2013)
 
-<img src="assets/sec-03-tools.svg" alt="03 / open source. Tools" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-03-tools.svg"><img src="assets/sec-03-tools.svg" alt="03 / open source. Tools" width="100%"></picture>
 
 Open-source tools and lab material, grouped by topic. Everything here is meant for lab environments and authorized security testing: use it only on systems you own or are explicitly allowed to test.
 
@@ -77,7 +77,7 @@ Open-source tools and lab material, grouped by topic. Everything here is meant f
 | [factLens](https://github.com/dokDork/factLens) | Evaluates the truthfulness of statements. |
 | **[All repositories](https://github.com/dokDork?tab=repositories)** | The full list of repositories on GitHub. |
 
-<img src="assets/sec-04-principles.svg" alt="04 / principles. Cyber security uncertainty principles" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-04-principles.svg"><img src="assets/sec-04-principles.svg" alt="04 / principles. Cyber security uncertainty principles" width="100%"></picture>
 
 Cyber security offers few certainties. Below I have tried to summarize some uncertainty principles that I have experienced in real life:
 
@@ -91,6 +91,6 @@ To make a system secure you must get as much information as possible about that 
 Hacking requires you to increase your knowledge every day.  
 So start now: read, experiment, verify the results, correct your beliefs, learn new things and start again, broadening the field of your knowledge each time.
 
-<img src="assets/sec-05-contact.svg" alt="05 / contact. Get in touch" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-05-contact.svg"><img src="assets/sec-05-contact.svg" alt="05 / contact. Get in touch" width="100%"></picture>
 
 For professional collaborations, consulting, speaking engagements or further information, you can reach me on [LinkedIn](https://www.linkedin.com/in/luigi-capuzzello/) or through [my website](https://capuzzello.altervista.org/).
